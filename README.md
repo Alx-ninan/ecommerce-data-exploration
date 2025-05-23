@@ -22,9 +22,4 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an e-comme
 - **Jupyter Notebook**
 - **EDA Techniques** (Correlation analysis, distribution plots, time series visualisation)
 
-## 📈 Sample Visualizations
-
-- Sales trend over time
-- Top products by quantity ordered
-- Customer segmentation overview
 
