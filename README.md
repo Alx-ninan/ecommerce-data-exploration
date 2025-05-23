@@ -13,9 +13,8 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an e-comme
 
 ## 📂 Contents
 
-- `Ecommerce_EDA.ipynb` — Jupyter Notebook containing the full analysis
-- `data/` — Folder for dataset(s) (not included for privacy reasons)
-- `images/` — Generated plots and visualisations (optional)
+- [Ecommerce_EDA.ipynb](Ecommerce_EDA.ipynb) — Jupyter Notebook containing the full analysis
+
 
 ## 📊 Technologies Used
 
